@@ -1,4 +1,6 @@
-# suckless-st (Simple Terminal) - Customized by Rohan Batra
+# suckless-st (Simple Terminal)
+
+![4](https://github.com/user-attachments/assets/f79f45f6-2b94-4cdf-8b87-8dac63f97c65)
 
 A personal fork of the [suckless](https://suckless.org/) `st` (simple terminal) project, featuring version separation and custom configurations tailored to my workflow.
 
